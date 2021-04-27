@@ -1,1 +1,1 @@
-# STM32-Traffic-Light
+# STM32 Kullanarak trafik lambası yapma
